@@ -1,4 +1,9 @@
 # TypeScript Overview
-- Superset of Js
+- Superset of JavaScript
 
-![SuperSet](superset.png)
+![SuperSet](superset.PNG)
+
+- It is accomplished using transpilation(converting typescript code to javascript)
+
+![transpilation](transpilation.PNG)
+
