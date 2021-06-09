@@ -1,2 +1,9 @@
 # Angular-Fundamentals
-Descrption and mini project
+- Achitecture
+- Angular components
+- Reusable services
+- Forms and validations
+- API calls
+- Unit test
+- Package everything together
+
